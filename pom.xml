@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>webapp</groupId>
-	<artifactId>webapp2</artifactId>
+	<artifactId>webapp-1</artifactId>
 	<version>1.0</version>
 	
 	<packaging>war</packaging>
@@ -18,7 +18,7 @@
 
 	<properties>
 		<pkg.code>WEBAPP</pkg.code>
-		<pkg.title>webapp</pkg.title>
+		<pkg.title>webapp-1</pkg.title>
 		<pkg.version.string>0.0.1-SNAPSHOT</pkg.version.string>
 		<pkg.version>0.0.1-SNAPSHOT</pkg.version>
 		<pkg.description><!-- Give some description about this package --></pkg.description>
