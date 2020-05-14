@@ -1,6 +1,6 @@
 FROM tomcat
 
-MAINTAINER Sumanth
+MAINTAINER aryan
 
 RUN apt-get update && apt-get -y upgrade
 
